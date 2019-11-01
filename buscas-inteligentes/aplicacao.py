@@ -14,7 +14,8 @@ min_dist = {'aracaju':[('fortaleza',815),('jpessoa',486),('salvador',277)]
 
 
 # constroí um grafo contendo as cidades do nordeste, as adjacencias e seus respectivos pesos para cada vertice.
-
+num = 15
+soma = num + 10
 def create_Graph():
 
 	graph = {}
